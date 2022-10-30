@@ -4,6 +4,10 @@
 
 > **CS 2022 Group 6**
 
+## Pins
+
+- [Repo Weahter Cat](https://github.com/CS-2022-Group-6/weahter-cat)
+
 ## Members
 
 > In no particular order.
