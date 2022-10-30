@@ -25,12 +25,12 @@
 >
 > Assigned by Saplyn
 
-- [ ] Change your account avatar
-- [ ] Add a README about yourself in your personal repo
-- [ ] Pin our repo "weather-cat" to your profile
-- [ ] Star & watch "weather-cat"
-- [ ] Make your organization membership visible to everyone
-- [ ] Edit the README in "weather-cat" to show that you've been here
+- [x] Change your account avatar
+- [x] Add a README about yourself in your personal repo
+- [x] Pin our repo "weather-cat" to your profile
+- [x] Star & watch "weather-cat"
+- [x] Make your organization membership visible to everyone
+- [x] Edit the README in "weather-cat" to show that you've been here
 
 ## About Us
 
