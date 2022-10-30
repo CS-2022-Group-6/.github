@@ -7,6 +7,7 @@
 ## Pins
 
 - [Repo Weahter Cat](https://github.com/CS-2022-Group-6/weahter-cat)
+- [Project Open Tutor](https://github.com/CS-2022-Group-6/open-tutor)
 
 ## Members
 
