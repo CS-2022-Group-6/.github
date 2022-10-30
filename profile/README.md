@@ -14,6 +14,19 @@
 - [**HSophia666** (Jiaqi Hou)](https://github.com/HSophia666)
 - [**ShawnFU2** (Jingyi Xu)](https://github.com/ShawnFU2)
 
+## Tasks
+
+> Get familiar with GitHub (1)
+>
+> Assigned by Saplyn
+
+- [ ] Change your account avatar
+- [ ] Add a README about yourself in your personal repo
+- [ ] Pin our repo "weather-cat" to your profile
+- [ ] Star & watch "weather-cat"
+- [ ] Make your organization membership visible to everyone
+- [ ] Edit the README in "weather-cat" to show that you've been here
+
 ## About Us
 
 We're young and wild!
